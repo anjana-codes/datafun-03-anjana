@@ -1,6 +1,5 @@
 
-# Project-3
- Git Add and Commit Your Local Change
+# Project-3 
  
 ## Create Project Virtual Environment
 
